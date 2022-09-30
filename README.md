@@ -5,10 +5,10 @@
 ### How to contribute to this repository.
 
 1. Fork this repository
-2. Create a program with the format of the name <username-github>.<program language>.
+2. Create a program with the format of the name <username_github>.<program_language>. and put it in the programs folder.
    
    `example: akasakaid.py / akasakaid.js / akasakaid.php`
-   
+
 3. Edit the [CONTRIBUTING.md](https://github.com/akasakaid/your-program/blob/main/CONTRIBUTING.md) file with the format as the example I gave.
    ```
    NOTE how to get github profile photo url : 
