@@ -1,7 +1,7 @@
 # list of contributing users
 
 | No  | Photo                                                                                       | Name              | Github Link                                                            |
-| --- | ------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------- |
+| --- |---------------------------------------------------------------------------------------------|-------------------| ---------------------------------------------------------------------- |
 | 1   | <img src="https://avatars.githubusercontent.com/u/55008381?v=4" height=150 width=150>       | AkasakaID         | [https://github.com/AkasakaID](https://github.com/AkasakaID)           |
 | 2   | <img src="https://avatars.githubusercontent.com/u/79714367?v=4" height=150 width=150>       | meowcraftY        |
 | 3   | <img src="https://avatars.githubusercontent.com/u/70132549?s=400" height=150 width=150>     | sayaPintar        | [https://github.com/sayaPintar](https://github.com/sayaPintar)         |
@@ -14,3 +14,5 @@
 | 10  | <img src="https://avatars.githubusercontent.com/u/73756341?v=4" height=150 width=150>       | radendi           | [https://github.com/radendi](https://github.com/radendi)               |
 | 11  | <img src="https://avatars.githubusercontent.com/u/76944311?v=4" height=150 width=150>       | shashwat010       | [https://github.com/shashwat010](https://github.com/shashwat010)       |
 | 12  | <img src="https://avatars.githubusercontent.com/u/55708473?v=4" height=150 width=150>       | zekhoi            | [https://github.com/zekhoi](https://github.com/zekhoi)                 |
+| 12  | <img src="https://avatars.githubusercontent.com/u/87221250?v=4" height=150 width=150>       | Aditya Permadi    | [https://github.com/enylvia](https://github.com/enylvia)               |
+
