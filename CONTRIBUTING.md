@@ -15,3 +15,4 @@
 | 11 | <img src="https://avatars.githubusercontent.com/u/76944311?v=4" height=150 width=150>       | shashwat010       | [https://github.com/shashwat010](https://github.com/shashwat010)       |
 | 12 | <img src="https://avatars.githubusercontent.com/u/55708473?v=4" height=150 width=150>       | zekhoi            | [https://github.com/zekhoi](https://github.com/zekhoi)                 |
 | 13 | <img src="https://avatars.githubusercontent.com/u/70275972?v=4" height=150 width=150>       | Tautve            | [https://github.com/zekhoi](https://github.com/Tautve)                 |
+| 14 | <img src="https://avatars.githubusercontent.com/u/47932109?v=4" height=150 width=150>       | Akmalfauzi        | [https://github.com/Akmalfauzi](https://github.com/Akmalfauzi)         |
