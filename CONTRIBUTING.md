@@ -18,3 +18,4 @@
 | 14 | <img src="https://avatars.githubusercontent.com/u/87221250?v=4" height=150 width=150>       | Aditya Permadi    | [https://github.com/enylvia](https://github.com/enylvia)               |
 | 15 | <img src="https://avatars.githubusercontent.com/u/47932109?v=4" height=150 width=150>       | Akmalfauzi        | [https://github.com/Akmalfauzi](https://github.com/Akmalfauzi)         |
 | 16 | <img src="https://avatars.githubusercontent.com/u/88846508?s=400&v=4" height=150 width=150> | Anjaszz           | [https://github.com/Anjaszz](https://github.com/Anjaszz)               |
+| 17 | <img src="https://avatars.githubusercontent.com/u/73154047?v=4" height=150 width=150>       | ideapedyudi       | [https://github.com/ideapedyudi](https://github.com/ideapedyudi)       |
