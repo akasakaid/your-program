@@ -3,3 +3,6 @@
 | --- | ------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------ |
 | 1   | <img src="https://avatars.githubusercontent.com/u/55008381?v=4" height=150 width=150> | AkasakaID | [https://github.com/AkasakaID](https://github.com/AkasakaID) |
 | 2   | <img src="https://avatars.githubusercontent.com/u/79714367?v=4" height=150 width=150> | meowcraftY|
+
+| 3   | <img src="https://avatars.githubusercontent.com/u/71179459?s=120&v=4" height=150 width=150> | Wafa Rifqi Anafin| [https://github.com/wafarifki](https://github.com/wafarifki)
+
