@@ -16,3 +16,4 @@
 | 12 | <img src="https://avatars.githubusercontent.com/u/55708473?v=4" height=150 width=150>       | zekhoi            | [https://github.com/zekhoi](https://github.com/zekhoi)                 |
 | 13 | <img src="https://avatars.githubusercontent.com/u/70275972?v=4" height=150 width=150>       | Tautve            | [https://github.com/zekhoi](https://github.com/Tautve)                 |
 | 14 | <img src="https://avatars.githubusercontent.com/u/87221250?v=4" height=150 width=150>       | Aditya Permadi    | [https://github.com/enylvia](https://github.com/enylvia)               |
+| 15 | <img src="https://avatars.githubusercontent.com/u/88846508?s=400&v=4" height=150 width=150> | Anjaszz           | [https://github.com/Anjaszz](https://github.com/Anjaszz)               |
