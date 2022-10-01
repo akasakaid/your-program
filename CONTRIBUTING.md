@@ -23,5 +23,5 @@
 | 19  | <img src="https://avatars.githubusercontent.com/u/93916892?v=4" height=150 width=150>       | Abbey IT          | [https://github.com/AbbeyIT](https://github.com/AbbeyIT)               |
 | 20  | <img src="https://avatars.githubusercontent.com/u/72153827?v=4" height=150 width=150>       | rajatrawal        | [https://github.com/rajatrawal](https://github.com/rajatrawal)         |
 | 21  | <img src="https://avatars.githubusercontent.com/u/33930946?v=4" height=150 width=150>       | mrtampan          | [https://github.com/mrtampan](https://github.com/mrtampan)             |
-| 22  | <img src="https://avatars.githubusercontent.com/u/43259253?s=400&u=5av=4" height=150 width=150>       | aldyansyahcp          | [https://github.com/aldyansyahcp](https://github.com/aldyansyahcp)             
+| 24  | <img src="https://avatars.githubusercontent.com/u/43259253?s=400&u=5av=4" height=150 width=150>       | aldyansyahcp          | [https://github.com/aldyansyahcp](https://github.com/aldyansyahcp)             
 
