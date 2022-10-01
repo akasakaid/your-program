@@ -3,4 +3,5 @@
 | --- | ------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------ |
 | 1   | <img src="https://avatars.githubusercontent.com/u/55008381?v=4" height=150 width=150> | AkasakaID | [https://github.com/AkasakaID](https://github.com/AkasakaID) |
 | 2   | <img src="https://avatars.githubusercontent.com/u/79714367?v=4" height=150 width=150> | meowcraftY|
-| 2   | <img src="https://avatars.githubusercontent.com/u/70132549?s=400" height=150 width=150> | sayaPintar | [https://github.com/sayaPintar](https://github.com/sayaPintar)
+| 3   | <img src="https://avatars.githubusercontent.com/u/70132549?s=400" height=150 width=150> | sayaPintar | [https://github.com/sayaPintar](https://github.com/sayaPintar)
+| 4   | <img src="https://avatars.githubusercontent.com/u/58597449?v=4" height=150 width=150> | kacrut06  | [https://github.com/kacrut06](https://github.com/kacrut06)   |
