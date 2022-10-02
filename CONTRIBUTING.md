@@ -29,3 +29,4 @@
 | 24  | <img src="https://avatars.githubusercontent.com/u/43259253?v=4" height=150 width=150>       | aldyansyahcp       | [https://github.com/aldyansyahcp](https://github.com/aldyansyahcp)    |
 | 25  | <img src="https://avatars.githubusercontent.com/u/91624754?v=4" height=150 width=150>        | vardhan0604        | [https://github.com/vardhan0604](https://github.com/vardhan0604)     |
 | 26  | <img src="https://avatars.githubusercontent.com/u/38537356?v=4" height=150 width=150>       | Isallkun       | [https://github.com/Isallkun](https://github.com/Isallkun)    |
+| 27  | <img src="https://avatars.githubusercontent.com/u/55076028?v=4" height=150 width=150>       | Yande Arta       | [https://github.com/yandearta](https://github.com/yandearta)    |
