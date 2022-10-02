@@ -31,3 +31,4 @@
 | 26  | <img src="https://avatars.githubusercontent.com/u/38537356?v=4" height=150 width=150>       | Isallkun       | [https://github.com/Isallkun](https://github.com/Isallkun)    |
 | 27  | <img src="https://avatars.githubusercontent.com/u/55076028?v=4" height=150 width=150>       | Yande Arta       | [https://github.com/yandearta](https://github.com/yandearta)    |
 | 28  | <img src="https://avatars.githubusercontent.com/u/52347410?v=4" height=150 width=150>       | Nidhay Pancholi       | [https://github.com/NidhayPancholi](https://github.com/NidhayPancholi)    |
+| 29  | <img src="https://avatars.githubusercontent.com/u/83714022?v=4" height=150 width=150>       | VEXG       | [https://github.com/VEXG](https://github.com/VEXG)    |
