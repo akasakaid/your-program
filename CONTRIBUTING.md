@@ -33,4 +33,4 @@
 | 28  | <img src="https://avatars.githubusercontent.com/u/52347410?v=4" height=150 width=150>       | Nidhay Pancholi       | [https://github.com/NidhayPancholi](https://github.com/NidhayPancholi)    |
 | 29  | <img src="https://avatars.githubusercontent.com/u/95163158?s=40&v=4" height=150 width=150>       | Mahir Jain       | [https://github.com/LordMahir](https://github.com/LordMahir)    |
 | 30  | <img src="https://avatars.githubusercontent.com/u/44641336?v=4" height=150 width=150>       | aryarfani       | [https://github.com/aryarfani](https://github.com/aryarfani)    |
-
+| 31  | <img src="https://avatars.githubusercontent.com/u/83714022?v=4" height=150 width=150>       | VEXG       | [https://github.com/VEXG](https://github.com/VEXG)    |
