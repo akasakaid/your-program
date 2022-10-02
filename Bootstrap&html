@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        TUGAS
+    </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <style>
+        .carousel-inner img {
+            width:100%;
+            height:100%;
+        }
+        .scroll{
+          width: 90%;
+          overflow-x: scroll;
+        }
+        body {
+          font-family: 'Courier New', Courier, monospace;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark  bg-primary fixed-top">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link active" aria-current="page" href="#"><b>Home</b></a>
+              <a class="nav-link" href="#"><b>Features</b></a>
+              <a class="nav-link" href="#"><b>Pricing</b></a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    <br>
+    <br>
+    <br>
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-3">
+      <div class="position-sticky pt-10">
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">
+              <strong>Dashboard</strong>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <strong>Orders</strong>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <strong>Products</strong>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <strong>Customers</strong>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <strong>Reports</strong>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <strong>Integrations</strong>
+            </a>
+          </li>
+        </ul>
+
+        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+          <span>Saved reports</span>
+          <a class="link-secondary" href="#" aria-label="Add a new report">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-plus-circle" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>
+          </a>
+        </h6>
+        <ul class="nav flex-column mb-2">
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+              Current month
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+              Last quarter
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+              Social engagement
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+              Year-end sale
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+          </div>
+          <div class="col-sm-6">
+              <div class="container-fluid">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="https://img.okezone.com/content/2020/06/30/52/2238567/lorenzo-beli-mobil-lamborghini-aventador-limited-edition-UaUuJ00OD3.jpg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://img.inews.co.id/media/822/files/inews_new/2019/02/10/lambor.jpg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://awsimages.detik.net.id/community/media/visual/2020/07/09/lamborghini-sian-roadster-1_169.jpeg?w=620" class="d-block w-100" alt="...">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+              <br>
+              <div class="container">
+                <div class="scroll">
+                  <center><table class="table">
+                    <thead>
+                      <tr>
+                        <th scope="col">No Barang</th>
+                        <th scope="col">barang 1</th>
+                        <th scope="col">barang 2</th>
+                        <th scope="col">barang 3</th>
+                        <th scope="col">barang 4</th>
+                        <th scope="col">barang 5</th>
+                        <th scope="col">barang 6</th>
+                        <th scope="col">barang 7</th>
+                        <th scope="col">barang 8</th>
+                        <th scope="col">barang 9</th>
+                        <th scope="col">barang 10</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <th scope="row">1</th>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang   </td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        
+                      </tr>
+                      <tr>
+                        <th scope="row">2</th>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">3</th>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                        <td>nama barang</td>
+                      </tr>
+                    </tbody>
+                  </table></center>
+              </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="list-group list-group-flush border-bottom scrollarea">
+                <a href="#" class="list-group-item list-group-item-action active py-3 lh-tight" aria-current="true">
+                  <div class="d-flex w-100 align-items-center justify-content-between">
+                    <strong class="mb-1">Berita</strong>
+                  </div>
+                  <div class="col-10 mb-1 small">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione explicabo fugit, quo voluptas facilis architecto sit quaerat debitis repudiandae doloribus quos quidem doloremque repellat culpa alias ipsum tempora. Perferendis, quidem!</div>
+                </a>
+                <a href="#" class="list-group-item list-group-item-action active py-3 lh-tight" aria-current="true">
+                  <div class="d-flex w-100 align-items-center justify-content-between">
+                    <strong class="mb-1">Berita</strong>
+                  </div>
+                  <div class="col-10 mb-1 small">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione explicabo fugit, quo voluptas facilis architecto sit quaerat debitis repudiandae doloribus quos quidem doloremque repellat culpa alias ipsum tempora. Perferendis, quidem!</div>
+                </a>
+                <a href="#" class="list-group-item list-group-item-action active py-3 lh-tight" aria-current="true">
+                  <div class="d-flex w-100 align-items-center justify-content-between">
+                    <strong class="mb-1">Berita</strong>
+                  </div>
+                  <div class="col-10 mb-1 small">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione explicabo fugit, quo voluptas facilis architecto sit quaerat debitis repudiandae doloribus quos quidem doloremque repellat culpa alias ipsum tempora. Perferendis, quidem!</div>
+                </a>
+
+          </div>
+        </div>
+      </div>
+</body>
+</html>

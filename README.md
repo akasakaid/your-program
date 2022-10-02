@@ -1,4 +1,4 @@
-# your-program
+# Your-Program
 
 ### Yoooww,, how are you ? Are you ready for Hacktoberfest 2022 ?
 
@@ -19,3 +19,9 @@
    ***make sure you edit it correctly**
 4. Create pull request/PR
 5. Wait for confirmation
+
+# License
+
+### Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+#HACKTOBERFEST2022

@@ -27,4 +27,12 @@
 | 22  | <img src="https://avatars.githubusercontent.com/u/64645351?s=400&v=4" height=150 width=150> | ayobami11          | [https://github.com/mrtampan](https://github.com/ayobami11)           |
 | 23  | <img src="https://avatars.githubusercontent.com/u/4570479?v=4" height=150 width=150>        | abhi12ravi         | [https://github.com/abhi12ravi](https://github.com/abhi12ravi)        |
 | 24  | <img src="https://avatars.githubusercontent.com/u/43259253?v=4" height=150 width=150>       | aldyansyahcp       | [https://github.com/aldyansyahcp](https://github.com/aldyansyahcp)    |
-| 25  | <img src="https://avatars.githubusercontent.com/u/51344185?s=40&v=4" height=150 width=150>       | ozkun-code       | [https://github.com/ozkun-code](https://github.com/ozkun-code)    |
+| 25  | <img src="https://avatars.githubusercontent.com/u/91624754?v=4" height=150 width=150>        | vardhan0604        | [https://github.com/vardhan0604](https://github.com/vardhan0604)     |
+| 26  | <img src="https://avatars.githubusercontent.com/u/38537356?v=4" height=150 width=150>       | Isallkun       | [https://github.com/Isallkun](https://github.com/Isallkun)    |
+| 27  | <img src="https://avatars.githubusercontent.com/u/55076028?v=4" height=150 width=150>       | Yande Arta       | [https://github.com/yandearta](https://github.com/yandearta)    |
+| 28  | <img src="https://avatars.githubusercontent.com/u/52347410?v=4" height=150 width=150>       | Nidhay Pancholi       | [https://github.com/NidhayPancholi](https://github.com/NidhayPancholi)    |
+| 29  | <img src="https://avatars.githubusercontent.com/u/95163158?s=40&v=4" height=150 width=150>       | Mahir Jain       | [https://github.com/LordMahir](https://github.com/LordMahir)    |
+| 30  | <img src="https://avatars.githubusercontent.com/u/44641336?v=4" height=150 width=150>       | aryarfani       | [https://github.com/aryarfani](https://github.com/aryarfani)    |
+| 31  | <img src="https://avatars.githubusercontent.com/u/83714022?v=4" height=150 width=150>       | VEXG       | [https://github.com/VEXG](https://github.com/VEXG)    |
+| 32  | <img src="https://avatars.githubusercontent.com/u/50283048?v=4" height=150 width=150>       | FARIZUL HAMMI       | [https://github.com/farizulhammi](https://github.com/farizulhammi)    |
+| 33  | <img src="https://avatars.githubusercontent.com/u/51344185?s=40&v=4" height=150 width=150>       | ozkun-code       | [https://github.com/ozkun-code](https://github.com/ozkun-code)    |
