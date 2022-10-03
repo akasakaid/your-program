@@ -43,3 +43,4 @@
 | 39  | <img src="https://avatars.githubusercontent.com/u/77262670?s=60&v=4" height=150 width=150>  | devangga666      | [https://github.com/devangga666](https://github.com/devangga666)           |
 | 40  | <img src="https://avatars.githubusercontent.com/u/77083215?s=60&v=4" height=150 width=150>  | Irfan Nada       | [https://github.com/eerfunn](https://github.com/eerfunn)                   |
 | 41  | <img src="https://avatars.githubusercontent.com/u/96789493?s=60&v=4" height=150 width=150>  | grraghav120      | [https://github.com/grraghav120](https://github.com/grraghav120)           |
+| 42  | <img src="https://avatars.githubusercontent.com/u/66865026?s=40&v=4" height=150 width=150>  | kushagra-a      | [https://github.com/kushagra-a](https://github.com/kushagra-a)           |
