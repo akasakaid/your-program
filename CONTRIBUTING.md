@@ -42,4 +42,4 @@
 | 37  | <img src="https://avatars.githubusercontent.com/u/96135154?v=4" height=150 width=150>       | mahir04           | [https://github.com/mahir04](https://github.com/mahir04)                   |
 | 38  | <img src="https://avatars.githubusercontent.com/u/81409709?v=4" height=150 width=150>       | P-Dhruva-Teja     | [https://github.com/P-Dhruva-Teja](https://github.com/P-Dhruva-Teja)       |
 | 39  | <img src="https://avatars.githubusercontent.com/u/67093170?v=4" height=150 width=150>       | AdityaWadkar      | [https://github.com/AdityaWadkar](https://github.com/AdityaWadkar)         |
-| 40  | <img src="https://avatars.githubusercontent.com/u/90227586?v=4" height=150 width=150>       | maglionaire       | [https://github.com/maglionaire](https://github.com/maglionaire)           |
+| 40  | <img src="https://avatars.githubusercontent.com/u/106713745?v=4" height=150 width=150>      | maglionaire       | [https://github.com/maglionaire](https://github.com/maglionaire)           |
