@@ -37,5 +37,4 @@
 | 32  | <img src="https://avatars.githubusercontent.com/u/50283048?v=4" height=150 width=150>       | FARIZUL HAMMI       | [https://github.com/farizulhammi](https://github.com/farizulhammi)    |
 | 33  | <img src="https://avatars.githubusercontent.com/u/51344185?s=40&v=4" height=150 width=150>       | ozkun-code       | [https://github.com/ozkun-code](https://github.com/ozkun-code)    |
 | 34  | <img src="https://avatars.githubusercontent.com/u/90227586?v=4" height=150 width=150>       | akmalfad       | [https://github.com/akmalfad](https://github.com/akmalfad)    |
-| 42 | <img src="https://avatars.githubusercontent.com/u/96789493?v=4" height=150 width=150>       | grraghav       | [https://github.com/grraghav120](https://github.com/grraghav120)    |
-=======
+| 43  | <img src="https://avatars.githubusercontent.com/u/96789493?v=4" height=150 width=150>       | grraghav       | [https://github.com/grraghav120](https://github.com/grraghav120)    |
