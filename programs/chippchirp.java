@@ -1,6 +1,6 @@
 // Recursive fibonacci sequence for Java!
 
-public class fib {
+public class chippchirp {
 	public static int fibRec(int n) {
         if(n == 0) {
             return 0;
