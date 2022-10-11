@@ -50,3 +50,4 @@
 | 46  | <img src="https://avatars.githubusercontent.com/u/92243128?v=4" height=150 width=150>  | divasgt        | [https://github.com/divasgt](https://github.com/divasgt)            |
 | 47  | <img src="https://avatars.githubusercontent.com/u/65524047?v=4" height=150 width=150>  | ChippChirp        | [https://github.com/ChippChirp](https://github.com/ChippChirp)            |
 | 48  | <img src="https://avatars.githubusercontent.com/u/40233834?v=4" height=150 width=150>  | nanodg        | [https://github.com/nanodg](https://github.com/nanodg)            |
+| 50  | <img src="https://avatars.githubusercontent.com/u/108107977?v=4" height=150 width=150>  | akhmadfaizabdulloh        | [https://github.com/akhmadfaizabdulloh](https://github.com/akhmadfaizabdulloh)            |
