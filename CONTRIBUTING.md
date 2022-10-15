@@ -61,4 +61,4 @@
 | 59  | <img src="https://avatars.githubusercontent.com/u/71764176?v=4" height=150 width=150>  | billalxcode        | [https://github.com/billalxcode](https://github.com/billalxcode)               |
 | 60  | <img src="https://avatars.githubusercontent.com/u/108107977?v=4" height=150 width=150> | akhmadfaizabdulloh | [https://github.com/akhmadfaizabdulloh](https://github.com/akhmadfaizabdulloh) |
 | 61  | <img src="https://avatars.githubusercontent.com/u/19588033?v=4" height=150 width=150>  | wyebit             | [https://github.com/wyebit](https://github.com/wyebit)                         |
-| 62  | <img src="https://avatars.githubusercontent.com/u/48595451?s=40&v=4" height=150 width=150>  | wyebit             | [https://github.com/Adtyya](https://github.com/Adtyya)                         |
+| 62  | <img src="https://avatars.githubusercontent.com/u/48595451?v=4" height=150 width=150>  | Adtyya             | [https://github.com/Adtyya](https://github.com/Adtyya)                         |
