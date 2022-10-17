@@ -30,3 +30,11 @@ for (var i = 1; i < 5; i++)
 {
     console.log(`Looping ${i} times`);
 }
+
+/* 
+    Abort controller
+*/
+
+const controller = new AbortController();
+let aborted = controller.abort();
+console.log(aborted)
