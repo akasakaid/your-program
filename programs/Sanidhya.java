@@ -42,5 +42,6 @@ public class Sanidhya
         //System.out.println(Arrays.toString(arr));
         System.out.println("Second Highest Element : "+arr[1]);
     }
+    
     }
 
