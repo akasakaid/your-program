@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pemesanan Buku</title>
+	<style>
+		.container{
+			width:650px;
+			margin: auto;
+			border: 1px dotted #blue;
+			padding: 10px;
+			background: #236899;
+			color:#fff;
+		}
+
+		h2{
+			text-align: center;
+			text-decoration: underline;
+
+
+		}
+
+		table{
+			background: #bd2323;
+			margin:auto;
+
+		}
+
+		td{
+			padding: 10px
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h2>Form Pemesanan buku</h2>
+		<table border="1">
+			<tr>
+				<th>No </th>
+				<th>Judul buku</th>
+				<th>harga</th>
+				<th>jumlah</th>
+			</tr>
+
+			<tr>
+				<th>1</th>
+				<th>Belajar C++</th>
+				<th>Rp. <input type="text" name="harga" id="algoritma" size="7" value="50000" readonly></th>
+				<th>Rp. <input type="number" name="jumlah_algoritma" id="harga_bukuc" size="7" value="0" onchange="total()"></th>
+			</tr>
+
+			<tr>
+				<th>2</th>
+				<th>Belajar PHP Pemula</th>
+				<th>Rp. <input type="text" name="harga" id="javascript" size="7" value="75000" readonly></th>
+				<th>Rp. <input type="number" name="jumlah_javascript" id="harga_bukuphp" size="7" value="0" onchange="total()"></th>
+			</tr>
+
+			<tr>
+				<th>3</th>
+				<th>HTML + CSS Untuk Pemula</th>
+				<th>Rp. <input type="text" name="harga" id="php" size="7" value="82500" readonly></th>
+				<th>Rp. <input type="number" name="jumlah_php" id="harga_html" size="7" value="0" onchange="total()"></th>
+			</tr>
+
+			<tr>
+				
+				<th colspan="3" style="text-align:right">Total Harga</th>
+				<th>Rp. <input type="text" name="total_jumlah" id="total" size="7" value="" readonly></th>
+			</tr>
+		</table>
+		<br><br>
+		<input type="button" onclick="window.print()" value="cetak">
+
+		<script type="text/javascript">
+		function total() {
+		var valgoritma = 50000 * parseInt(document.getElementById('harga_bukuc').value);
+		var vjavascript = 75000 * parseInt(document.getElementById('harga_php').value);
+		var vphp = 82500 * parseInt(document.getElementById('harga_html').value);
+
+		var jumlah_harga = valgoritma + vjavascript + vphp;
+
+		document.getElementById('total').value = jumlah_harga;
+		}
+		
+		</script>
+	</div>
+</body>
+</html>
