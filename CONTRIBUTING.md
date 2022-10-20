@@ -67,3 +67,5 @@
 | 65  | <img src="https://avatars.githubusercontent.com/u/114144836?v=4" height=150 width=150>  | yash-raj10        | [https://github.com/yash-raj10](https://github.com/yash-raj10)            | 
 | 66  | <img src="https://avatars.githubusercontent.com/u/95462584?v=4" height=150 width=150>  | Sanidhya-Pundeer        | [https://github.com/Sanidhya-Pundeer](https://github.com/Sanidhya-Pundeer)            | 
 | 66  | <img src="https://avatars.githubusercontent.com/u/40291960?v=4" height=150 width=150>  | Sid-Lais        | [https://github.com/Sid-Lais](https://github.com/Sid-Lais)
+| 66  | <img src="https://avatars.githubusercontent.com/u/78456544?v=4" height=150 width=150>  | vinayedula        | https://github.com/VinayEdula 
+(https://github.com/VinayEdula)
