@@ -1,12 +1,3 @@
-'''
-anggota tim: 
-- Muhammad Fairuz Amzar Naim Harith Ibrahim 4332101018
-- Refi Arvindo Adiyansya 4332101016
-- Muhammad Rizki Adha 4332101015
-- Michellino Fransisku Sinurat 4332101001
-kelas: RKS 3A Reguler
-'''
-
 from hashlib import md5
 from base64 import b64decode
 from base64 import b64encode
